@@ -37,7 +37,7 @@ package
 		protected function onSite():void
 		{
 			
-			FlxU.openURL("http://devianix.com/");
+			FlxU.openURL("http://example.com/");  //replace with your site's URL 
 		}
 		
 		protected function onPlay():void
